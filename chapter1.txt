@@ -1,1 +1,1 @@
-I estou estudando modulo de git
+I estou estudando modulo de git//// to modificando pois estou na etapa de estudos sobre branch, já aprendi a deletar, criar a trocar de branch, elas sao usadas pra quando eu não quiser usar a branch principal, por exemplo quando eue stiver resolvendo um bug por exemplo, eu crio uma branch nova, e quando eu termianr de resolver o bug, eu vou e coloco o conteudo dessa na branch principal fazendo sua mesclagem
